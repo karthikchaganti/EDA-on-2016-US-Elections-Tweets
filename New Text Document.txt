@@ -1,0 +1,9 @@
+\sectionsep
+\runsubsection{Exploratory Data Analysis on 2016 US Election Tweets} \href{https://karthikchaganti.shinyapps.io/machineLearning/}{\color{blue}\faExternalLink} \\
+\descript{| R Lang, Shiny}
+\location{November 2015 | University at Buffalo}
+\begin{tightemize}
+\item Designed an R Shiny web application where in the user can select various evidences and target variables resulting in corresponding marginal, conditional and joint probabilities.
+\item Bayesian network is used to correlate various insurance risks such as age, driving skill, type of car, liability cost, medical costs etc and Junction tree algorithm is used to calculate the probability distributions among these as per the user's request.
+\end{tightemize}
+\sectionsep
